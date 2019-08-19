@@ -9,6 +9,6 @@ To install requirements.txt -> `pip install -r requirements.txt`
 
 References:
 
-https://towardsdatascience.com/bibirra-beer-label-recognition-8546c233d6f4
-Practical Deep Learning for Cloud and Mobile by Anirudh Koul; Meher Kasam; Siddha Ganju, O'Reilly Media, Inc.
-Programming Computer Vision with Python by Jan Erik Solem, O'Reilly Media, Inc.
+- https://towardsdatascience.com/bibirra-beer-label-recognition-8546c233d6f4
+- Practical Deep Learning for Cloud and Mobile by Anirudh Koul; Meher Kasam; Siddha Ganju, O'Reilly Media, Inc.
+- Programming Computer Vision with Python by Jan Erik Solem, O'Reilly Media, Inc.
